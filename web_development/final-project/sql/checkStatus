@@ -1,0 +1,3 @@
+SELECT userID,userStatus
+FROM final_users
+WHERE userID=:uID AND tokenCode=:code LIMIT 1 ;

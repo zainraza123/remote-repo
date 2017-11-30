@@ -1,0 +1,2 @@
+INSERT INTO final_orders(orderNum, orderEmail, orderItemID)
+VALUES (:orderNum, :orderEmail, :orderItemID);

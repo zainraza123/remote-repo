@@ -1,0 +1,2 @@
+INSERT INTO final_products(itemCategoryID, itemName, itemPrice, itemImgName)
+VALUES (:itemCategoryID, :itemName, :itemPrice, :itemImgName)

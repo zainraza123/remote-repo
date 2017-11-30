@@ -1,0 +1,2 @@
+INSERT INTO final_users(userName,userEmail,userPass,tokenCode)
+VALUES(:user_name, :user_mail, :user_pass, :active_code);

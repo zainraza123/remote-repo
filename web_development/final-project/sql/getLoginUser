@@ -1,0 +1,2 @@
+SELECT * FROM final_users
+WHERE userEmail=:email_id

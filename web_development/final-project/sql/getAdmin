@@ -1,0 +1,1 @@
+SELECT isAdmin FROM final_users WHERE userID = :userID;
