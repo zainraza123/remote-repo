@@ -1,0 +1,161 @@
+.content {
+    /*width: 700px; */
+    background-color: white;
+    margin: 0 auto;
+    padding: 2%;
+}
+
+.content2 {
+    width: 1000px;
+    background-color: white;
+    margin: 0 auto;
+}
+
+td {
+    width: 80px;
+    height: 30px;
+    text-align: center;
+    color: #787878;
+}
+
+tr {
+    padding-right: 50px;
+}
+
+h3 {
+    color: #595959;
+    position: relative;
+}
+
+body {
+    /*Don't need background color
+    Already set in template
+    background-color: #454545;
+    */
+}
+
+a {
+    text-decoration: none;
+}
+
+a.edit,
+a.approve {
+    text-decoration: none;
+    color: #595959;
+}
+
+button.accordion {
+    width: 100%;
+    height: 60px;
+    background-color: #E6E6E6;
+    margin-bottom: 10px;
+}
+
+button.accordion.active,
+button.accordion:hover {
+    background-color: #E6E6E6;
+}
+
+select {
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.startEndShiftTable td {
+    width: 200px;
+}
+
+.button {
+    color: white;
+    background-color: black;
+    height: 30px;
+}
+
+optgroup[label] {
+    /* color: gold; */
+}
+
+#save {
+    
+}
+
+#totalHoursText {
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+#totalRemainingHoursText {
+    color: red;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+#addProject {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.deleteTimeEntry {
+    border: none;
+    font-size: 175%;
+    color: grey;
+}
+
+.deleteTimeEntry:hover {
+    color: darkred;
+    cursor: pointer;
+}
+
+.deleteProject {
+    color: grey;
+    font-size: 175%;
+}
+
+.deleteProject:hover {
+    color: darkred;
+    cursor: pointer;
+}
+
+#weeklyProjectHoursText {
+    margin-top: 35px;
+}
+
+#timeEntryForm {
+    margin-top: 20px;
+}
+
+#timeEntryForm td, #scheduleForm td, #managerOverrideForm td {
+    padding-top: 7px;
+    padding-right: 7px;
+}
+
+#timeEntryForm th, #scheduleForm th, #managerOverrideForm th {
+    min-width: 100px;
+}
+
+#SaturdaySection, #SundaySection {
+    display: none;
+}
+
+#toggleWeek {
+    text-align: center;
+    cursor: pointer;
+}
+
+#timeEntryFooter {
+    margin-top: 20px;
+}
+
+a.addNewTime.btn {
+    margin-top: 15px;
+}
+
+.holiday-warning {
+    vertical-align: middle;
+    float: right;
+    line-height: inherit;
+    color: #FFC72C;
+}

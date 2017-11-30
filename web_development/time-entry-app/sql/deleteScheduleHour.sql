@@ -1,0 +1,3 @@
+DELETE
+FROM schedule_times
+WHERE EOID = :EOID

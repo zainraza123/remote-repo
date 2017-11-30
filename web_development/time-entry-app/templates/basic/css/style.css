@@ -1,0 +1,112 @@
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    min-height: 100%;
+    /*max-width: 1400px;*/
+    margin-left: auto;
+    margin-right: auto;
+    background-color: grey;
+    max-height: 10vh;
+    font-family: "Helvetice Neue", Helvetica, Arial, sans-serif;
+    font-size: 100%;
+}
+
+main {
+    height:98%;
+    padding: 2%;
+}
+
+.clear:before,
+.clear:after {
+    content: " ";
+    display: table;
+}
+
+.clear:after {
+    clear: both;
+}
+
+a:focus, a:hover {
+    color: gold;
+    cursor: pointer;
+}
+
+@media (min-width: 768px) {
+
+}
+
+.top-header-bar {
+    color: white;
+    background-color: #333;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    /*width: 100%;
+    height: 80px;
+    padding-left: 1%;
+    padding-right: 1%;
+    display: flex;
+    align-items: flex-end;*/
+}
+
+#user-welcome {
+    margin: 0px;
+    width: calc(25% - 9px);
+    padding-left: 15px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#welcome {
+    background-color: transparent;
+    border: none;
+    outline: none;
+}
+
+.dropdown-menu>li>a {
+    padding: 15px 25px;
+    font-weight: 700;
+}
+
+#header-title {
+    color: white;
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 24px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#sign-out {
+    width: 25%;
+    text-align: right;
+    padding-right: 15px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#sign-out:hover {
+    text-decoration: underline;
+}
+.arrow:hover {
+    background-color: black;
+    color: white;
+}
+
+.arrow a:hover {
+    color: white;
+}
+
+.ui-widget-content {
+    background: white;
+}
+
+.ui-widget input, 
+.ui-widget select, 
+.ui-widget textarea, 
+.ui-widget button {
+    font-size: 14px;
+}

@@ -1,0 +1,46 @@
+RA#,Project #,Date Signed,Company,Project Name,Primary Contact Name,Primary Contact Email,AP Contact Name,AP Payable Email,Type,Cap / Fixed Cost Budget,Rate,Notes/Terms
+100000,100000-1,1/1/2007,Center for Applied Informatics,CAI Internal,,,,,TIME & MATERIALS,0.00,$10/hr,
+100004,100004-1,6/25/2012,Professional Voice Messaging,CAUDSYS,Jerry Dempsey,jdempsey@cadusys.com,USE PRIMARY,USE PRIMARY,TIME & MATERIALS,0.00,$24/hr,
+100004,100004-2,10/19/2016,Professional Voice Messaging,Cadusys (new Oct 2016),Jerry Dempsey,jdempsey@cadusys.com,USE PRIMARY,USE PRIMARY,TIME & MATERIALS,0.00,$29/hr,
+100008,100008-1,12/2/2013,Incipience Group,Doctor Scribbles,Angela J. Malone,incipience12@gmail.com,USE PRIMARY,USE PRIMARY,TIME & MATERIALS,0.00,$24/hr,
+100013,100013-2,5/1/2017,InstrumentLife,InstrumentLife ,"Christopher Strum, COO",cstrum@instrumentlife.com,USE PRIMARY,USE PRIMARY,TIME & MATERIALS,0.00,$45/hr,
+100027,100027-2,5/16/2017,The Shephard Group LLC,Shephard Group,Dan Shephard,dan@thefrontlinefundraiser.com,USE PRIMARY,USE PRIMARY,TIME & MATERIALS,0.00,$45/hr,
+100054,100054-2,2/14/2017,Best Upon Request,Best Upon Request - Phase 2,Tillie Lima,,Katie Stout,Katie.Stout@bestuponrequest.com,TIME & MATERIALS,0.00,$45/hr,
+100061,100061-1,4/3/2014,Gleason Reel,Gleason Reel,Steve Loeck,sloeck@hubbell-gleason.com,USE PRIMARY,USE PRIMARY,TIME & MATERIALS,0.00,$24/hr,
+100067,100067-1,12/6/2013,3DLT,Uptech 3DLT,"Colin Klayer, COO",colin@3dlt.com,USE PRIMARY,USE PRIMARY,TIME & MATERIALS,0.00,$24/hr,
+100088,100088-1,7/3/2014,W. Ron Adams,W. Ron Adams,Ruth Reyer, ruthreyer@yahoo.com,Elena Wellmann,emw@wronadamslaw.com,TIME & MATERIALS,0.00,$24/hr,
+100111,100111-1,10/27/2014,Greater Cincinnati STEM Collaborative,Greater Cincinnati Stem Collaborative,"Mary G. Adams, Program Manager",mary@marygadams.org,USE PRIMARY,USE PRIMARY,Fixed Bid: CAPPED,6000.00,$24/hr,
+100116,100116-1,12/8/2014,Northern Kentucky Education Council,NKYEC - Website Upgrade,"Polly Lusk Page, Executive Director",,Chris Perkins,cperkins@nkyec.org,TIME & MATERIALS,0.00,$24/hr,
+100131,100131-1,3/9/2015,Ancra International ,Ancra Mobile,Jennifer Ramsey,JenniferRamsey@ancra.com,USE PRIMARY,USE PRIMARY,TIME & MATERIALS,0.00,$29/hr,
+100131,100131-2  ,5/23/2017,Ancra International ,Ancra Mobile,Jennifer McVey,jmcvey@ancra.com,Melody Anderson,manderson@ancra.com,TIME & MATERIALS,0.00,$45/hr,
+100146,100146-1,6/8/2015,Electronic Commerce Link,E-Gov Link (EC Link Invoice Accounting),"William ""Bill"" R. Nadler Jr., President",,Jerry Felix,jfelix@eclink.com,TIME & MATERIALS,0.00,$29/hr,
+100146,100146-2,4/18/2017,EC Link,E-Gov Link (EC Link - Phase 2),"Jerry Felix, CEO",jfelix@eclink.com,,accounting@eclink.com,TIME & MATERIALS,0.00,$45/hr,
+100149,100149-2,6/21/2017,Tandem Public Relations,Transit Authority of River City (TARC),Alvin Russell Goodwin II,,Kim Pangburn,Kpangburn@ridetarc.org,TIME & MATERIALS,0.00,$30/hr,
+100158,100158-1 ,9/1/2015,Kentucky Department of Education,KDE Maintenance,"Phillip D. Coleman, Director School Technology Services",phil.coleman@education.ky.gov,USE PRIMARY,USE PRIMARY,TIME & MATERIALS,0.00,$24/hr,invoice phil.coleman@education.ky.gov
+100158,100158-2,6/2/2017,Kentucky Department of Education (KDE),KDE Maintenance,"Phillip D. Coleman, Director School Technology Services",phil.coleman@education.ky.gov,Gary Bachmann,gary.bachmann@education.ky.gov,Fixed Bid: CAPPED,2500.00,$30/hr,"The RA is TIME&MATIERALS but we're tracking a CAP because we found out after signing that there's a budget of $2,500.00"
+100159,100159-1,9/8/2015,NKU-Center for Environmental Education (CINSAM),Water Quality Maintenance,"Madhura Kulkarni, Interim  Director",kulkarnim2@nku.edu,USE PRIMARY,USE PRIMARY,Fixed Bid: CAPPED,750.00,$24/hr,
+100166,100166-1,10/26/2015,84.51,84.51,"Lori Jeffries, General Counsel/David Middendorf",david.middendorf@8451.com,USE PRIMARY,USE PRIMARY,TIME & MATERIALS,0.00,$29/hr,"(effort TBD, starting January)"
+100172,100172-2,2/22/2017,Association of University Interior Designers (AUID),AUID Assurance Plan & Dev Work,Melissa Marriott,mmarriot@illinois.edu,USE PRIMARY,USE PRIMARY,WEB ASSURANCE POLICY:  LIFELINE,0.00,$30/hr,$150/Fixed Monthly Web Assurance - Prepaid Credit $600.00
+100177,100177-1,,Northern Kentucky Emergency Planning Committee,NKEPC Website Maintenance,Rodney Bell (Chairman),rbell@sd1.org,Mr. Bob Stark,bstark@covingtonky.gov,TIME & MATERIALS,0.00,$29/hr,
+100179,100179-1,,Stroud Water Research Center,Water Quality Android,Steve Kerlin,skerlin@stroudcenter.org,Rebecca Duczkowski,rduczkowski@stroudcenter.org,Fixed Bid: CAPPED,5000.00,$24/hr,"capped at $3000 initial, another $2000, possible more funds."
+100179,100179-2,5/31/2017,Stroud Water Research Center,Water Quality App,"John D. Pepe, Controller & Treasurer",skerlin@stroudcenter.org,Steve Kerlin,skerlin@stroudcenter.org,TIME & MATERIALS,0.00,$30/hr,
+100181,100181-1,2/18/2016,Ethos Laboratories,Ethos Web,"Jacob Case, IT Support Administrator",jacob.case@ethos-labs.com,Beth Hawes,Beth.Hawes@ethos-labs.com,TIME & MATERIALS,0.00,$29/hr,
+100184,100184-1,3/7/2016,Harmony Acres Farm,Harmony Acres Farm,"Linda Peebles, Owner",harmonyacresfarm@yahoo.com,USE PRIMARY,USE PRIMARY,TIME & MATERIALS,0.00,$29/hr,
+100187,100187-1  ,3/29/2016,Cincinnati Insurance Company,Cincinnati Financial iOS code maintenance,Bobby Rice,Bobby.Rice@cinfin.com,Accounts Payable,accounts_payable@cinfin.com,TIME & MATERIALS,0.00,$29/hr,N/A
+100189,100189-2,5/31/2017,Children Inc.,Right On Q,"Josh Hatten, Director of Evaluation",jhatton@childreninc.org,USE PRIMARY,USE PRIMARY,TIME & MATERIALS,0.00,$30/hr,
+100190,100190-1,5/8/2016,Community of Faith Presbyterian Church,Community of Faith Presbyterian Church,Bill Lindsay ,drlindsay@fuse.net,USE PRIMARY,USE PRIMARY,Fixed Bid: CAPPED,2000.00,$24/hr,"RA signed by Jack Kleier, Trustee Community of Faith"
+100192,100192-1,7/8/2016,Skyward,Skyward Survey Tool,"Nancy Costello, Director",ncostello@skywardnky.org,USE PRIMARY,USE PRIMARY,TIME & MATERIALS,0.00,$24/hr,"RA signed by William L. Scheyen, President"
+100193,100193-1,8/4/2016,Hospice of SW Ohio,Hospice of SW Ohio,"David Walsh, CEO",dwalsh@carebridgeservices.org,USE PRIMARY,USE PRIMARY,Fixed Bid: CAPPED,3000.00,$24/hr,
+100197,100197-1,12/5/2016,Spring Grove Cemetery,Spring Grove Cemetery augmented Reality,"Greg Kent, Director of IT",gkent@springgrove.org,USE PRIMARY,USE PRIMARY,TIME & MATERIALS,0.00,$30/hr,
+100198,100198-1,12/8/2016,Cincinnati Children's Hospital,Cincinnati Children's App,Leanne Tamm,Leanne.Tamm@cchmc.org,USE PRIMARY,USE PRIMARY,Fixed Bid: CAPPED,5000.00,$24/hr,"RA signed by Jana Bazzoli, Vice President-CCRF"
+100200,100200-1,1/24/2017,Mariemont City Schools,Mariemont Phase 1,Tom Golinar,TGolinar@mariemontschools.org,USE PRIMARY,USE PRIMARY,Fixed Bid: CAPPED,6000.00,$30/hr,cap is for phase 1
+100201,100201-1,2/1/2017,Safety Edge LLC.,Safety Edge LLC.,David Moss,dmoss@northstarsllc.com,USE PRIMARY,USE PRIMARY,TIME & MATERIALS,0.00,$45/hr,"RA signed by John Fisher, President"
+100202,100202-1,2/5/2017,Elementz LLC,Elementz LLC,Monica Barrett,monicabarrett@ymail.com,USE PRIMARY,USE PRIMARY,TIME & MATERIALS,0.00,$45/hr,
+100203,100203-1,2/7/2017,"The Wireless Store Inc, DBA Pulls",Pulls,David A. Cain (President & CEO),david@getpulls.com,USE PRIMARY,USE PRIMARY,TIME & MATERIALS,0.00,$45/hr,
+100204,100204-1,2/27/2017,iReportSource,iReportSource,"Christi Brown, CEO",cbrown@ireportsource.com,USE PRIMARY,USE PRIMARY,TIME & MATERIALS,0.00,$45/hr,
+100205,100205-1,3/10/2017,The Randolph Company,L.I.F.E. Foundation,Carter F. Randolph,carter@therandolphcompany.com,USE PRIMARY,USE PRIMARY,TIME & MATERIALS,0.00,$45/hr,
+100206,100206-1,3/13/2017,Johnstone Supply LLC,Johnstone,Ben Callahan,ben.callahan@johnstonesolutions.com,Linda Marshall,linda.marshall@johnstonesupply.com,TIME & MATERIALS,0.00,$45/hr,"RA signed by Cameron Grimme, VP Finance"
+100207,100207-1,3/30/2017,Morton-Holdings LLC.,RE/MAX Monika - Sustainment 5-hrs,A. Dulin (President),Alan@morton-holdings.com,USE PRIMARY,USE PRIMARY,WEB ASSURANCE POLICY:  LIFELINE,0.00,$45/hr,$225/Fixed Monthly Web Assurance Lifeline - Plus billed maintenance at hrly rate.
+100207,100207-2,4/10/2017,Morton-Holdings LLC.,RE/MAX Monika - New Website,A. Dulin (President),Alan@morton-holdings.com,USE PRIMARY,USE PRIMARY,Fixed Bid: CAPPED,14850.00,$45/hr,
+100208,100208-1,4/11/2017,Lodige Process Technology,"Lodige, USA","Jeffrey W.  Raabe, CEO",jeffraabe@lodige-pt.com,USE PRIMARY,USE PRIMARY,TIME & MATERIALS,0.00,$45/hr,
+100209,100209-1,5/8/2017,Music Resource Center,MRC - Mayerson Funded Project,Bethany Monahan,bethany@mrccinci.org,USE PRIMARY,USE PRIMARY,Fixed Bid: FIXED COST,4000.00,$30/hr,
