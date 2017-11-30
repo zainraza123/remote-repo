@@ -1,0 +1,9 @@
+@echo off
+For /f "tokens=2-4 delims=/ " %%a in ('date /t') do (set mydate=%%c-%%a-%%b)
+
+mkdir Z:\APPX_database\%mydate%
+mkdir Z:\APPX_database\%mydate%\noon
+mkdir Z:\APPX_database\%mydate%\midnight
+
+move C:\"Program Files"\"Microsoft SQL Server"\MSSQL.1\MSSQL\Backup\APPX\noon\*.* Z:\APPX_database\%mydate%\noon\
+move C:\"Program Files"\"Microsoft SQL Server"\MSSQL.1\MSSQL\Backup\APPX\midnight\*.* Z:\APPX_database\%mydate%\midnight\
