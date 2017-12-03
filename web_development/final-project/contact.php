@@ -5,7 +5,7 @@
     <div class="bg-faded p-4 my-4">
         <hr class="divider">
         <h2 class="text-center text-lg text-uppercase my-0">Contact
-            <strong>Business Casual</strong>
+            <strong>Cafe X</strong>
         </h2>
         <hr class="divider">
         <div class="row">
@@ -17,16 +17,17 @@
             </div>
             <div class="col-lg-4">
                 <h5 class="mb-0">Phone:</h5>
-                <div class="mb-4">123.456.7890</div>
+                <div class="mb-4">513.253.2691</div>
                 <h5 class="mb-0">Email:</h5>
                 <div class="mb-4">
-                    <a href="mailto:name@example.com">name@example.com</a>
+                    <a href="mailto:name@example.com">razaz1@mymail.nku.edu</a>
                 </div>
                 <h5 class="mb-0">Address:</h5>
                 <div class="mb-4">
-                    3481 Melrose Place
+                    Northern kentucky university
+                    Student Union
                     <br>
-                    Beverly Hills, CA 90210
+                    highland Heights KY 41076
                 </div>
             </div>
         </div>

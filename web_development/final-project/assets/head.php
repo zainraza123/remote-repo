@@ -71,6 +71,7 @@ error_reporting(E_ALL);
                     <li class="nav-item px-lg-4">
                         <span class="nav-link text-uppercase text-expanded">About</span>
                     </li>
+
                 <?php endif?>
                 <li class="nav-item px-lg-4">
                     <a class="nav-link text-uppercase text-expanded" href="cart.php">Cart</i>(<?php if (isset($_SESSION['cart'])) {echo count($_SESSION['cart']);} else {echo '0';}?>)</a>
@@ -83,6 +84,13 @@ error_reporting(E_ALL);
                         <a class="nav-link text-uppercase text-expanded" href="login.php">Login</a>
                     <?php endif;?>
                 </li>
+
+                <li class="nav-item px-lg-4">
+                    <?php if (isset($_SESSION['userSession']) && !empty($_SESSION['userSession'])):?>
+                        <a class="nav-link text-uppercase text-expanded" href="home.php">Orders</a>
+                    <?php endif;?>
+                </li>
+
 
                 <li class="nav-item px-lg-4">
                     <form align="right" method="GET" action="menu.php" enctype="multipart/form-data">
